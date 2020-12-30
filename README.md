@@ -1,4 +1,4 @@
-# Thoke Extracts
+# Homebrew Extracts
 
 ## How do I install these formulae?
 `brew install thoke/extracts/<formula>`
